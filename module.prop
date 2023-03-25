@@ -1,7 +1,7 @@
-id=Miui13MiWalletforEuRom
-name=Mi Wallet for MIUI 13 EU Rom
+id=Miui14MiWalletforEuRom
+name=Mi Wallet for MIUI 14 EU Rom
 author=rsps1008
-version=v2
-versionCode=2
-description=Let Mi Wallet work for Miui 13 test on the Mi 12 Pro
+version=v3
+versionCode=3
+description=Let Mi Wallet work for Miui 14 test on the Mi 13 Pro
 minMagisk=20400
